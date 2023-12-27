@@ -50,3 +50,12 @@ Desafio proposto pela TERA feito ao decorrer da minha conclusão do Curso de DAT
 ## Base de dados:
 
 O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021. Ele contém 168.979 observações e um 76 variáveis explicativas provenientes do questionário socioeconômico preenchido pelos candidatos antes do exame, além da nota média (a target) dos candidatos. 
+
+
+# Livros
+
+<h1 align="center"><a href="https://github.com/Felintox/handson_ml">Mãos à obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow</a></h1>
+
+Neste Repositorio segue meu acompanhamento com a resolução e estudo sobre o livro em questão
+
+[Cap 2](https://github.com/Felintox/handson_ml/tree/main/Cap2): Aprendi como funciona um Projeto de Aprendizado de Máquina Ponta a Ponta
