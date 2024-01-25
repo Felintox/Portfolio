@@ -52,7 +52,7 @@ Desafio proposto pela TERA feito ao decorrer da minha conclusão do Curso de DAT
 O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021. Ele contém 168.979 observações e um 76 variáveis explicativas provenientes do questionário socioeconômico preenchido pelos candidatos antes do exame, além da nota média (a target) dos candidatos. 
 
 #
-<h1 align="center"><a href="">Análise Exploratória de Dados em Linguagem Python para a Área de Varejo</a></h1>
+<h1 align="center"><a href="https://github.com/Felintox/Curso-DSA/blob/main/Projeto_2/Projeto_DSA_varejo.ipynb">Análise Exploratória de Dados em Linguagem Python para a Área de Varejo</a></h1>
 
 O objetivo deste projeto feito ao decorrer do meu curso de "Fundamentos de Linguagem Python Para Análise de Dados e Data Science" é responder 10 perguntas de negócio a partir de um dataset sobre uma rede de varejo que comercializa diversos produtos em diversas cidades dos EUA.
 
