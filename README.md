@@ -1,11 +1,11 @@
-# Portfólio de Análise e Ciência de Dados
+# Portfólio de Ciência de Dados
 
  ![imagem1](https://github.com/Felintox/Portfolio/assets/129033082/2bc0d14b-9e38-4e19-a7c6-f1b597c2b551)
 
 
 # Projetos
 
-# Linguagem Python :
+
 
 
 <h1 align="center"><a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Desafio Inferencia</a></h1>
@@ -54,7 +54,7 @@ O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021.
 #
 <h1 align="center"><a href="https://github.com/Felintox/Curso-DSA/blob/main/Projeto_2/Projeto_2_DSA.ipynb">Análise Exploratória de Dados para a Área de Varejo</a></h1>
 
-O objetivo deste projeto feito ao decorrer do meu curso de "Fundamentos de Linguagem Python Para Análise de Dados e Data Science" é responder 10 perguntas de negócio a partir de um dataset sobre uma rede de varejo que comercializa diversos produtos em diversas cidades dos EUA.
+Este projeto tem como objetivo responder dez perguntas de negócio para entender melhor sobre um conjunto de dados de uma rede de varejo que comercializa diversos produtos em diversas cidades dos EUA.
 
 ## Perguntas de Negócio
 
@@ -75,9 +75,9 @@ As perguntas de negócio que serão respondidas neste projeto são as seguintes:
 
 O dataset usado neste projeto está disponível no seguinte link:
 
-https://community.tableau.com/community/samples/sample-superstore-sales-excelxls
+[https://community.tableau.com/community/samples/sample-superstore-sales-excelxls](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
 
-Foram feitas algumas alterações pela própria DSA, mas o arquivo usado no projeto está no Github.
+Foram feitas algumas alterações, mas o arquivo usado no projeto está no Github.
 
 
 # Livros
