@@ -8,12 +8,11 @@
 
 
 
-<h1 align="center"><a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Desafio Inferencia</a></h1>
+<h1 align="center"><a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Inferência Estatística</a></h1>
 
 
-# Resolução do Desafio de Inferência
+# Inferência Estatística 
 
-Desafio proposto pela TERA feito ao decorrer da minha conclusão do Curso de DATA SCIENCE & MACHINE LEARNING desta plataforma
 
 # Resumo:
 
@@ -34,12 +33,10 @@ DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados 
 PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006
 
 #
-<h1 align="center"><a href="https://github.com/Felintox/Tera_Desafio_Regressão">Desafio de Regressão</a></h1>
+<h1 align="center"><a href="https://github.com/Felintox/Tera_Desafio_Regressão">Regressão</a></h1>
 
 
-# Resolução do Desafio de Regressão
-
-Desafio proposto pela TERA feito ao decorrer da minha conclusão do Curso de DATA SCIENCE & MACHINE LEARNING desta plataforma
+# Regressão
 
 ## Resumo:
 
