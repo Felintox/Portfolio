@@ -3,15 +3,10 @@
 ![97f3a141-7c1b-4178-8b03-713efd450ed5](https://github.com/Felintox/Portfolio/assets/129033082/8af2b6a0-bd8d-4a97-a505-ad5d1b8f13c5)
 
 
-# Projetos
 
 
 
-
-<h1 align="center"><a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Inferência Estatística</a></h1>
-
-
-# Inferência Estatística 
+# 1) Inferência Estatística 
 
 
 # Resumo:
@@ -32,24 +27,27 @@ DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados 
 
 PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006
 
+<a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Link para o Projeto</a>
+
 #
-<h1 align="center"><a href="https://github.com/Felintox/Tera_Desafio_Regressão">Regressão</a></h1>
 
 
-# Regressão
+# 2) Regressão
 
 ## Resumo:
 
-- Interpretabilidade - Construir uma regressão linear simples, com poucas variáveis importantes, visando gerar insights para os analistas no quesito desempenho do candidato no exame. Ou seja, o foco será na interpretação dos coeficientes (exemplo: se o candidato for de uma escola pública o valor Y da sua nota média irá aumentar quanto?).
+1) Construir uma regressão linear simples, com poucas variáveis importantes, visando gerar insights para os analistas no quesito desempenho do candidato no exame. Ou seja, o foco será na interpretação dos coeficientes (exemplo: se o candidato for de uma escola pública o valor Y da sua nota média irá aumentar quanto?).
 
-- Predição -  Construir um modelo com alto poder preditivo, com mais variáveis, visando um bom desempenho e com o intuito de ser usado em uma página web como preditora de desempenho. Note que, em casos como esse, queremos ter o menor erro possível, mesmo que o modelo seja complexo e tenha uma interpretação mais difícil.
+2) Construir um modelo com alto poder preditivo, com mais variáveis, visando um bom desempenho e com o intuito de ser usado em uma página web como preditora de desempenho. Note que, em casos como esse, queremos ter o menor erro possível, mesmo que o modelo seja complexo e tenha uma interpretação mais difícil.
 
 ## Base de dados:
 
 O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021. Ele contém 168.979 observações e um 76 variáveis explicativas provenientes do questionário socioeconômico preenchido pelos candidatos antes do exame, além da nota média (a target) dos candidatos. 
 
-#
-<h1 align="center"><a href="https://github.com/Felintox/Curso-DSA/blob/main/Projeto_2/Projeto_2_DSA.ipynb">Análise Exploratória de Dados para a Área de Varejo</a></h1>
+<a href="https://github.com/Felintox/Tera_Desafio_Regressão">Link para o Projeto</a>
+
+
+# 3) Análise Exploratória de Dados para a Área de Varejo
 
 Este projeto tem como objetivo responder dez perguntas de negócio para entender melhor sobre um conjunto de dados de uma rede de varejo que comercializa diversos produtos em diversas cidades dos EUA.
 
@@ -76,11 +74,4 @@ O dataset usado neste projeto está disponível no seguinte link:
 
 Foram feitas algumas alterações, mas o arquivo usado no projeto está no Github.
 
-
-# Livros
-
-<h1 align="center"><a href="https://github.com/Felintox/handson_ml">Mãos à obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow</a></h1>
-
-Neste Repositorio segue meu acompanhamento com a resolução e estudo sobre o livro em questão
-
-[Cap 2](https://github.com/Felintox/handson_ml/tree/main/Cap2): Aprendi como funciona um Projeto de Aprendizado de Máquina Ponta a Ponta
+<a href="https://github.com/Felintox/Curso-DSA/blob/main/Projeto_2/Projeto_2_DSA.ipynb">Link para o Projeto</a>
