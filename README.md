@@ -1,6 +1,6 @@
 # Portfólio de Ciência de Dados
 
- ![imagem1](https://github.com/Felintox/Portfolio/assets/129033082/2bc0d14b-9e38-4e19-a7c6-f1b597c2b551)
+![97f3a141-7c1b-4178-8b03-713efd450ed5](https://github.com/Felintox/Portfolio/assets/129033082/8af2b6a0-bd8d-4a97-a505-ad5d1b8f13c5)
 
 
 # Projetos
