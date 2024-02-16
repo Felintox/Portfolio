@@ -36,9 +36,7 @@ PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos p
 
 ## Resumo:
 
-1) Construir uma regressão linear simples, com poucas variáveis importantes, visando gerar insights para os analistas no quesito desempenho do candidato no exame. Ou seja, o foco será na interpretação dos coeficientes (exemplo: se o candidato for de uma escola pública o valor Y da sua nota média irá aumentar quanto?).
-
-2) Construir um modelo com alto poder preditivo, com mais variáveis, visando um bom desempenho e com o intuito de ser usado em uma página web como preditora de desempenho. Note que, em casos como esse, queremos ter o menor erro possível, mesmo que o modelo seja complexo e tenha uma interpretação mais difícil.
+Este projeto tem como objetivo aplicar técnicas de aprendizado de máquina para prever as notas dos participantes do Exame Nacional do Ensino Médio (ENEM) de 2021. Utilizaremos algoritmos de regressão para modelar a relação entre as características dos candidatos e suas respectivas notas nas provas.
 
 ## Base de dados:
 
