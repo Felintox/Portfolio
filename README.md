@@ -33,7 +33,7 @@ DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados 
 PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006
 
 ## Mais Detalhes:
-<a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Link para o Projeto</a>
+## <a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Link para o Projeto</a>
 
 #
 
@@ -53,7 +53,7 @@ Construir um modelo com alto poder preditivo, com mais variáveis, visando um bo
 O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021. Ele contém 168.979 observações e um 76 variáveis explicativas provenientes do questionário socioeconômico preenchido pelos candidatos antes do exame, além da nota média (a target) dos candidatos. 
 
 ## Mais Detalhes:
-<a href="https://github.com/Felintox/Tera_Desafio_Regressão">Link para o Projeto</a>
+## <a href="https://github.com/Felintox/Tera_Desafio_Regressão">Link para o Projeto</a>
 
 
 # 3) Análise Exploratória de Dados para a Área de Varejo
@@ -86,4 +86,4 @@ O dataset usado neste projeto está disponível no seguinte link:
 Foram feitas algumas alterações, mas o arquivo usado no projeto está no Github.
 
 ## Mais Detalhes:
-<a href="https://github.com/Felintox/Curso-DSA/blob/main/Projeto_2/Projeto_2_DSA.ipynb">Link para o Projeto</a>
+## <a href="https://github.com/Felintox/Curso-DSA/blob/main/Projeto_2/Projeto_2_DSA.ipynb">Link para o Projeto</a>
