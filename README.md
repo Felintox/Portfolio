@@ -11,14 +11,17 @@
 
 A inferência estatística é um ramo da estatística que se dedica a tirar conclusões sobre uma população a partir de uma amostra. Em outras palavras, é o processo de usar os dados coletados de uma amostra menor para fazer generalizações ou previsões sobre uma população maior.
 <br>
+
 O desafio proposto trata sobre o transtorno depressivo, um problema multifatorial que pode ter várias possíveis combinações de situações como causa.
 
 
-## O desafio é responder as seguintes perguntas:
+## Apartir dos dados foram feitas algumas Inferencia atraves de teste de hipoteses:
 
-- Qual o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006?
+1. Há associação entre gênero e depressão?
 
-- Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população?
+2. As médias de idade são as mesmas para os três grupos de depressão?
+
+3. As médias de renda familiar são as mesmas para os três grupos de depressão?
 
 ## Banco de Dados
 
@@ -29,6 +32,7 @@ DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados 
 
 PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006
 
+## Mais Detalhes:
 <a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Link para o Projeto</a>
 
 #
@@ -48,6 +52,7 @@ Construir um modelo com alto poder preditivo, com mais variáveis, visando um bo
 
 O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021. Ele contém 168.979 observações e um 76 variáveis explicativas provenientes do questionário socioeconômico preenchido pelos candidatos antes do exame, além da nota média (a target) dos candidatos. 
 
+## Mais Detalhes:
 <a href="https://github.com/Felintox/Tera_Desafio_Regressão">Link para o Projeto</a>
 
 
@@ -80,4 +85,5 @@ O dataset usado neste projeto está disponível no seguinte link:
 
 Foram feitas algumas alterações, mas o arquivo usado no projeto está no Github.
 
+## Mais Detalhes:
 <a href="https://github.com/Felintox/Curso-DSA/blob/main/Projeto_2/Projeto_2_DSA.ipynb">Link para o Projeto</a>
