@@ -4,16 +4,15 @@
 
 
 
-
-
 # 1) Inferência Estatística 
 
 
 # Resumo:
 
+A inferência estatística é um ramo da estatística que se dedica a tirar conclusões sobre uma população a partir de uma amostra. Em outras palavras, é o processo de usar os dados coletados de uma amostra menor para fazer generalizações ou previsões sobre uma população maior.
+<br>
 O desafio proposto trata sobre o transtorno depressivo, um problema multifatorial que pode ter várias possíveis combinações de situações como causa.
 
-Os dados disponíveis são resultados da NHNES (National Health and Nutrition Examination Survey), realizada anualmente nos EUA para avaliar a saúde e nutrição de adultos e crianças;
 
 ## O desafio é responder as seguintes perguntas:
 
@@ -22,6 +21,9 @@ Os dados disponíveis são resultados da NHNES (National Health and Nutrition Ex
 - Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população?
 
 ## Banco de Dados
+
+
+Os dados disponíveis são resultados da NHNES (National Health and Nutrition Examination Survey), realizada anualmente nos EUA para avaliar a saúde e nutrição de adultos e crianças;
 
 DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados no NHANES 2005-2006
 
@@ -34,13 +36,17 @@ PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos p
 
 # 2) Regressão
 
-## Resumo:
+A regressão é uma técnica estatística e de aprendizado de máquina amplamente usada para analisar a relação entre variáveis. Em sua essência, a regressão busca entender como o valor de uma variável dependente (ou variável de resposta) muda em relação a uma ou mais variáveis independentes (ou preditores). 
 
-Este projeto tem como objetivo aplicar técnicas de aprendizado de máquina para prever as notas dos participantes do Exame Nacional do Ensino Médio (ENEM) de 2021. Utilizaremos algoritmos de regressão para modelar a relação entre as características dos candidatos e suas respectivas notas nas provas.
+O objetivo principal é modelar a relação entre essas variáveis para fazer previsões ou entender a dinâmica subjacente do fenômeno em estudo.
+
+## RESUMO:
+
+Construir um modelo com alto poder preditivo, com mais variáveis, visando um bom desempenho e com o intuito de ser usado em uma página web como preditora de desempenho. Note que, em casos como esse, queremos ter o menor erro possível, mesmo que o modelo seja complexo e tenha uma interpretação mais difícil.<br>
 
 ## Base de dados:
 
-O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021. Ele contém 168.979 observações e um 76 variáveis explicativas provenientes do questionário socioeconômico preenchido pelos candidatos antes do exame, além da nota média (a target) dos candidatos. 
+O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021. Ele contém 168.979 observações e um 76 variáveis explicativas provenientes do questionário socioeconômico preenchido pelos candidatos antes do exame, além da nota média (a target) dos candidatos. 
 
 <a href="https://github.com/Felintox/Tera_Desafio_Regressão">Link para o Projeto</a>
 
@@ -54,6 +60,8 @@ Este projeto tem como objetivo responder dez perguntas de negócio para entender
 As perguntas de negócio que serão respondidas neste projeto são as seguintes:
 
 * **Pergunta de Negócio 1:** Qual Cidade com Maior Valor de Venda de Produtos da Categoria 'Office Supplies'
+
+  
 * **Pergunta de Negócio 2:** Qual o Total de Vendas Por Data do Pedido?
 * **Pergunta de Negócio 3:** Qual o Total de Vendas por Estado?
 * **Pergunta de Negócio 4:** Quais São as 10 Cidades com Maior Total de Vendas?
