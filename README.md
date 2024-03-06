@@ -38,7 +38,7 @@ PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos p
 #
 
 
-# 2) Regressão
+# 2) Regressão ( em finalização )
 
 A regressão é uma técnica estatística e de aprendizado de máquina amplamente usada para analisar a relação entre variáveis. Em sua essência, a regressão busca entender como o valor de uma variável dependente (ou variável de resposta) muda em relação a uma ou mais variáveis independentes (ou preditores). 
 
