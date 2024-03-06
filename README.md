@@ -53,7 +53,7 @@ Construir um modelo com alto poder preditivo, com mais variáveis, visando um bo
 O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021. Ele contém 168.979 observações e um 76 variáveis explicativas provenientes do questionário socioeconômico preenchido pelos candidatos antes do exame, além da nota média (a target) dos candidatos. 
 
 ## Mais Detalhes:
-## <a href="https://github.com/Felintox/Tera_Desafio_Regressão">Link para o Projeto</a>
+## <a href="https://github.com/Felintox/Tera_Desafio_Regressao">Link para o Projeto</a>
 
 
 # 3) Análise Exploratória de Dados para a Área de Varejo
