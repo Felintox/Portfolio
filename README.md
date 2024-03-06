@@ -86,4 +86,4 @@ O dataset usado neste projeto está disponível no seguinte link:
 Foram feitas algumas alterações, mas o arquivo usado no projeto está no Github.
 
 ## Mais Detalhes:
-## <a href="https://github.com/Felintox/Curso-DSA/blob/main/Projeto_2/Projeto_2_DSA.ipynb">Link para o Projeto</a>
+## <a href="https://github.com/Felintox/Curso-DSA">Link para o Projeto</a>
