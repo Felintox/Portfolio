@@ -87,3 +87,44 @@ Foram feitas algumas alterações, mas o arquivo usado no projeto está no Githu
 
 ## Mais Detalhes:
 ## <a href="https://github.com/Felintox/Curso-DSA">Link para o Projeto</a>
+
+# 4) Análise de Dados de E-Commerce com SQL
+A análise de dados se tornou essencial na maioria das empresas hoje em dia. Os insights derivados da análise de dados podem resultar em melhorias significativas em várias indústrias e áreas de negócios. 
+
+Neste artigo irei realizar uma análise em um conjunto de dados de bem conhecido de E-Commerce do Brasil, o que nos permitirá compreender melhor o comportamento do consumidor, avaliar o desempenho de produtos e funcionários, entre outras informações, utilizando a linguagem SQL.
+
+SQL, ou Linguagem de Consulta Estruturada, é uma linguagem de programação destinada a gerir e manipular sistemas de banco de dados relacionais. É vastamente empregada para consultas, inserções, atualizações e exclusões de dados em um banco de dados. A SQL é vital para a análise de dados, pois habilita os usuários a realizar consultas complexas e extrair insights de grandes conjuntos de dados de maneira eficaz.
+
+# Fonte dos Dados
+
+Vamos realizar a análise através de um conjunto de dados muito famoso na plataforma do Kaggle, o "Brazilian E-Commerce Public Dataset by Olist". 
+
+O conjunto de dados contém informações de 100 mil pedidos de 2016 a 2018, feitos em vários marketplaces no Brasil. Seus recursos permitem visualizar um pedido em múltiplas dimensões: desde status do pedido, preço, desempenho de pagamento e frete até a localização do cliente, atributos do produto e, finalmente, avaliações escritas pelos clientes. 
+
+O conjunto de dados é constituído por 9 tabelas diferentes, cada uma com particularidades específicas, e segue o diagrama de relacionamento abaixo:
+
+![1_aXTlOcs3-l0L4Bi_pyiADA](https://github.com/Felintox/Sql_Olist_Analise/assets/129033082/8d16ad80-0849-4786-92d6-b7932b2ed3a1)
+
+## Tabelas do nosso Conjunto de Dados:
+
+olist_customers_dataset.csv : Tabela com informação dos Clientes
+
+olist_geolocation_dataset.csv: Tabela com informações de Localização dos clientes.
+
+olist_order_items_dataset.csv: Tabela com os pedidos feitos.
+
+olist_order_payments_dataset.csv: Tabela com informação dos pagamentos.
+
+olist_order_reviews_dataset.csv: Tabela com as avaliações.
+
+olist_orders_dataset.csv: Informações mais detalhadas sobre os pedidos.
+
+olist_orders_sellers_dataset.csv: Tabela com informações do vendedor.
+
+olist_products_dataset.csv: Tabela com informações dos produtos e suas categorias.
+
+
+## Mais Detalhes:
+## <a href="https://github.com/Felintox/Sql_Olist_Analise">Link para o Projeto</a>
+
+
