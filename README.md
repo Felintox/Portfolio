@@ -31,11 +31,8 @@ Os dados disponíveis são resultados da NHNES (National Health and Nutrition Ex
 DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados no NHANES 2005-2006
 
 PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006
-
-## Mais Detalhes:
-## <a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Link para o Projeto</a>
-
 #
+### Mais Detalhes: <a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Link para o Projeto</a>
 
 
 # 2) Regressão ( em finalização )
@@ -51,9 +48,8 @@ Construir um modelo com alto poder preditivo, com mais variáveis, visando um bo
 ## Base de dados:
 
 O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021. Ele contém 168.979 observações e um 76 variáveis explicativas provenientes do questionário socioeconômico preenchido pelos candidatos antes do exame, além da nota média (a target) dos candidatos. 
-
-## Mais Detalhes:
-## <a href="https://github.com/Felintox/Tera_Desafio_Regressao">Link para o Projeto</a>
+#
+### Mais Detalhes: <a href="https://github.com/Felintox/Tera_Desafio_Regressao">Link para o Projeto</a>
 
 
 # 3) Análise Exploratória de Dados para a Área de Varejo
@@ -84,9 +80,45 @@ O dataset usado neste projeto está disponível no seguinte link:
 [https://community.tableau.com/community/samples/sample-superstore-sales-excelxls](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
 
 Foram feitas algumas alterações, mas o arquivo usado no projeto está no Github.
+#
+### Mais Detalhes: <a href="https://github.com/Felintox/Curso-DSA">Link para o Projeto</a>
 
-## Mais Detalhes:
-## <a href="https://github.com/Felintox/Curso-DSA">Link para o Projeto</a>
+# 3.1) EDA - Salary Data Science ( 2020 - 2024)
+
+Tem como objetivo realizar uma Análise exploratória de dados (EDA) em um conjunto de dados disponivel no Kaggle sobre os salarios da área de Ciência de dados entre os anos de 2020-2024, faz parte de um competição realizada dentro da comunidade do "Clube de Assinaturas da Universidade dos dados" ministrado pelo Andre Yukio.
+
+O objetivo desta EDA é proporcionar uma compreensão mais aprofundada da estrutura de remuneração no campo de Data Science, identificando padrões e possíveis disparidades. Esta análise não apenas beneficia os profissionais atuais e aspirantes a entenderem o panorama salarial, mas também empregadores no planejamento de orçamentos de contratação e no estabelecimento de pacotes de remuneração competitivos
+
+## Dicionario dos Dados
+### Colunas e Descrição :
+
+job_title: The job title or role associated with the reported salary
+
+experience_level: The level of experience of the individual.
+
+employment_type: Indicates whether the employment is full-time, part-time, etc.
+
+work_models: Describes different working models (remote, on-site, hybrid).
+
+work_year: The specific year in which the salary information was recorded.
+
+employee_residence: The residence location of the employee.
+
+salary: The reported salary in the original currency.
+
+salary_currency: The currency in which the salary is denominated.
+
+salary_in_usd: The converted salary in US dollars.
+
+company_location: The geographic location of the employing organization.
+
+company_size: The size of the company, categorized by the number of employees.
+
+
+### Fonte dos Dados: https://www.kaggle.com/datasets/sazidthe1/data-science-salaries/data
+#
+### Mais Detalhes: <a href="https://www.kaggle.com/code/gabrielfelinto/eda-salary-data-science-2020-2024">Link para o Projeto</a>
+
 
 # 4) Análise de Dados de E-Commerce com SQL
 A análise de dados se tornou essencial na maioria das empresas hoje em dia. Os insights derivados da análise de dados podem resultar em melhorias significativas em várias indústrias e áreas de negócios. 
@@ -124,7 +156,6 @@ olist_orders_sellers_dataset.csv: Tabela com informações do vendedor.
 olist_products_dataset.csv: Tabela com informações dos produtos e suas categorias.
 
 
-## Mais Detalhes:
-## <a href="https://github.com/Felintox/Sql_Olist_Analise">Link para o Projeto</a>
+### Mais Detalhes: <a href="https://github.com/Felintox/Sql_Olist_Analise">Link para o Projeto</a>
 
 
