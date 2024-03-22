@@ -20,7 +20,7 @@ O desafio proposto trata sobre o transtorno depressivo, um problema multifatoria
 
 3. As médias de renda familiar são as mesmas para os três grupos de depressão?
 
-## Banco de Dados
+## Base de Dados
 
 
 Os dados disponíveis são resultados da NHNES (National Health and Nutrition Examination Survey), realizada anualmente nos EUA para avaliar a saúde e nutrição de adultos e crianças;
@@ -110,7 +110,7 @@ company_location: The geographic location of the employing organization.
 company_size: The size of the company, categorized by the number of employees.
 
 
-### Fonte dos Dados: https://www.kaggle.com/datasets/sazidthe1/data-science-salaries/data
+### Base de dados : https://www.kaggle.com/datasets/sazidthe1/data-science-salaries/data
 #
 ### Mais Detalhes: <a href="https://www.kaggle.com/code/gabrielfelinto/eda-salary-data-science-2020-2024">Link para o Projeto</a>
 
@@ -122,7 +122,7 @@ Neste artigo irei realizar uma análise em um conjunto de dados de bem conhecido
 
 SQL, ou Linguagem de Consulta Estruturada, é uma linguagem de programação destinada a gerir e manipular sistemas de banco de dados relacionais. É vastamente empregada para consultas, inserções, atualizações e exclusões de dados em um banco de dados. A SQL é vital para a análise de dados, pois habilita os usuários a realizar consultas complexas e extrair insights de grandes conjuntos de dados de maneira eficaz.
 
-# Fonte dos Dados
+
 
 Vamos realizar a análise através de um conjunto de dados muito famoso na plataforma do Kaggle, o "Brazilian E-Commerce Public Dataset by Olist". 
 
@@ -150,6 +150,7 @@ olist_orders_sellers_dataset.csv: Tabela com informações do vendedor.
 
 olist_products_dataset.csv: Tabela com informações dos produtos e suas categorias.
 
+## Base de Dados : <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Link para os dados</a>
 
 ### Mais Detalhes: <a href="https://github.com/Felintox/Sql_Olist_Analise">Link para o Projeto</a>
 
