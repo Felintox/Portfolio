@@ -6,9 +6,6 @@
 
 # 1) Inferência Estatística 
 
-
-# Resumo:
-
 A inferência estatística é um ramo da estatística que se dedica a tirar conclusões sobre uma população a partir de uma amostra. Em outras palavras, é o processo de usar os dados coletados de uma amostra menor para fazer generalizações ou previsões sobre uma população maior.
 <br>
 
@@ -40,8 +37,6 @@ PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos p
 A regressão é uma técnica estatística e de aprendizado de máquina amplamente usada para analisar a relação entre variáveis. Em sua essência, a regressão busca entender como o valor de uma variável dependente (ou variável de resposta) muda em relação a uma ou mais variáveis independentes (ou preditores). 
 
 O objetivo principal é modelar a relação entre essas variáveis para fazer previsões ou entender a dinâmica subjacente do fenômeno em estudo.
-
-## RESUMO:
 
 Construir um modelo com alto poder preditivo, com mais variáveis, visando um bom desempenho e com o intuito de ser usado em uma página web como preditora de desempenho. Note que, em casos como esse, queremos ter o menor erro possível, mesmo que o modelo seja complexo e tenha uma interpretação mais difícil.<br>
 
