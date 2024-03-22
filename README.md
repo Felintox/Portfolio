@@ -32,7 +32,7 @@ PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos p
 ### Mais Detalhes: <a href="https://github.com/Felintox/Tera_Desafio_Inferencia">Link para o Projeto</a>
 
 
-# 2) Regressão ( em finalização )
+# 2) Regressão 
 
 A regressão é uma técnica estatística e de aprendizado de máquina amplamente usada para analisar a relação entre variáveis. Em sua essência, a regressão busca entender como o valor de uma variável dependente (ou variável de resposta) muda em relação a uma ou mais variáveis independentes (ou preditores). 
 
@@ -44,7 +44,7 @@ Construir um modelo com alto poder preditivo, com mais variáveis, visando um bo
 
 O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021. Ele contém 168.979 observações e um 76 variáveis explicativas provenientes do questionário socioeconômico preenchido pelos candidatos antes do exame, além da nota média (a target) dos candidatos. 
 #
-### Mais Detalhes: <a href="https://github.com/Felintox/Tera_Desafio_Regressao">Link para o Projeto</a>
+### Mais Detalhes: <a href="https://www.kaggle.com/code/gabrielfelinto/prevendo-notas-do-enem">Link para o Projeto</a>
 
 
 # 3) Análise Exploratória de Dados para a Área de Varejo
