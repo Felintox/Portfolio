@@ -1,7 +1,8 @@
 # Portfólio de Ciência de Dados
 
 
-![DALL·E 2024-03-23 19 27 01 - Crie uma imagem extremamente minimalista de 1080x566 pixels, que contenha somente e exclusivamente a frase 'in data we trust' em letras brancas sobre ](https://github.com/Felintox/Portfolio/assets/129033082/f3615fb9-8111-486e-bd8f-d091b3f146a3)
+![DALL·E 2024-03-23 19 45 46 - Create a square image with the phrase 'In data we trust' in bold, white, sans-serif font  The letters should be 3D, standing upright on a solid black ](https://github.com/Felintox/Portfolio/assets/129033082/25cae286-0bce-458e-8602-07c72eb8bad3)
+
 
 
 
