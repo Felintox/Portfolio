@@ -1,7 +1,7 @@
 # Portfólio de Ciência de Dados
 
 
-![resized_portfolio_banner (1)](https://github.com/Felintox/Portfolio/assets/129033082/ea1af265-ac54-4957-b4ea-821e40ec6fbd)
+![DALL·E 2024-03-23 19 27 01 - Crie uma imagem extremamente minimalista de 1080x566 pixels, que contenha somente e exclusivamente a frase 'in data we trust' em letras brancas sobre ](https://github.com/Felintox/Portfolio/assets/129033082/f3615fb9-8111-486e-bd8f-d091b3f146a3)
 
 
 
