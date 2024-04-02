@@ -158,5 +158,29 @@ O conjunto de dados descreve o desempenho de candidatos do ENEM, no ano de 2021.
 
 ## <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Base de Dados</a>
 ##  <a href="https://github.com/Felintox/Sql_Olist_Analise">Link para o Projeto</a>
+<br> 
 
+# Power Bi
+<br>
+
+# <a href='https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-uma-startup-de-entregas-f38a350a80b2'>Análise de Dados de uma Startup de Entregas</a>
+
+
+
+Nos últimos anos, testemunhamos uma expansão significativa no setor de aplicativos de entrega em todo o mundo. Durante este período, observou-se o surgimento de diversas startups, entre elas o Delivery Center, uma startup especializada na gestão de entregas para centros comerciais, visando construir um ecossistema de varejo integrado, facilitando a conexão entre lojistas, plataformas de venda e entregadores por meio de uma única plataforma.
+
+O conjunto de análises em foco reúne dados variados, incluindo registros de pedidos, informações sobre as lojas, entregadores, tipos de pagamento, entre outros. Esses dados são essenciais para a geração de insights relevantes sobre o negócio, possibilitando a realização de previsões acuradas sobre os gastos em campanhas promocionais ou outras ações de marketing, sempre com base em informações históricas.
+
+## Objetivo
+- Este artigo visa cumprir os levantamentos sugeridos a seguir, além de conduzir uma análise exploratória aprofundada dos dados. Isso envolverá modificações nos dados para identificar e corrigir quaisquer erros ou outliers, preparando-os adequadamente para a realização dos levantamentos requisitados.
+
+## Levantamentos Propostos:
+- Numa ação de marketing, para atrair mais entregadores, vamos dar uma bonificação para os 20 entregadores que possuem maior distância percorrida ao todo. A bonificação vai variar de acordo com o tipo de profissional que ele é e o modelo que ele usa para se locomover (moto, bike, etc).
+- Além disso, o time de Pricing precisa ajustar os valores pagos aos entregadores. Para isso, eles precisam da distribuição da distância média percorrida pelos motoqueiros separada por estado, já que cada região terá seu preço.
+Por fim, o CFO precisa de alguns indicadores de receita para apresentar para a diretoria executiva. Dentre esses indicadores, vocês precisarão levantar (1) a receita média e total separada por tipo (Food x Good), (2) A receita média e total por estado. Ou seja, são 4 tabelas ao todo.
+- Se a empresa tem um gasto fixo de 5 reais por entrega, recebe 15% do valor de cada entrega como receita e, do total do lucro, distribui 20% em forma de bônus para os 2 mil funcionários, quanto cada um irá receber no período contido no dataset?
+
+# <a href='https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-uma-startup-de-entregas-f38a350a80b2'>Link para o Projeto</a>
+
+# <a href ='https://app.powerbi.com/view?r=eyJrIjoiN2Q3ZjkwOGMtYzExZC00NWEwLWJkODgtODIwMjM3NGIyZTU2IiwidCI6IjY3NzhmMDFhLWI5ZmMtNGNlYy1iZTgyLTM0N2U5NzMzNTI4ZCJ9&pageName=ReportSectionae2b9fce90c9a17c857b'>Link para o Dashboard</a>
 
