@@ -24,13 +24,9 @@
 -  <a href='https://app.powerbi.com/view?r=eyJrIjoiN2Q3ZjkwOGMtYzExZC00NWEwLWJkODgtODIwMjM3NGIyZTU2IiwidCI6IjY3NzhmMDFhLWI5ZmMtNGNlYy1iZTgyLTM0N2U5NzMzNTI4ZCJ9&pageName=ReportSectionae2b9fce90c9a17c857b'>Confira o Dashboard</a>
 -  <a href='https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-uma-startup-de-entregas-f38a350a80b2'>Confira o Projeto no Medium</a>
 
-
-![powerbi](https://github.com/Felintox/Portfolio/assets/129033082/ba7e34d4-d95d-4736-a987-02be78957f44)
-
-
-
-
-
+<p align="center">
+  <img alt="Covid-19" width="80%" src="https://github.com/Felintox/Portfolio/assets/129033082/ba7e34d4-d95d-4736-a987-02be78957f44">
+</p>
 
 
 
@@ -44,8 +40,11 @@
 - Artigo no medium realizando uma análise em um conjunto de dados de bem conhecido de E-Commerce do Brasil, o que nos permitirá compreender melhor o comportamento do consumidor, avaliar o desempenho de produtos e funcionários, entre outras informações, utilizando a linguagem SQL.
 - Vamos realizar a análise através de um conjunto de dados muito famoso na plataforma do Kaggle, o "Brazilian E-Commerce Public Dataset by Olist". 
 
-- <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce">Base de Dados</a>
 - <a href="https://github.com/Felintox/Sql_Olist_Analise">Link para o Projeto</a>
+
+<p align="center">
+  <img alt="Covid-19" width="80%" src="https://github.com/Felintox/Portfolio/assets/129033082/5aeae21b-e031-4549-9a84-be73054f7fca">
+</p>
 
 <br> 
 
@@ -64,7 +63,15 @@ Algumas perguntas:
 -  As médias de renda familiar são as mesmas para os três grupos de depressão?
 - Os dados disponíveis são resultados da NHNES (National Health and Nutrition Examination Survey), realizada anualmente nos EUA para avaliar a saúde e nutrição de adultos e crianças;
 
-- <a href='https://github.com/Felintox/Tera_Desafio_Inferencia'>Confira o Projeto</a> 
+- <a href='https://github.com/Felintox/Tera_Desafio_Inferencia'>Confira o Projeto</a>
+
+<p align="center">
+  <img alt="Covid-19" width="70%" src="https://github.com/Felintox/Portfolio/assets/129033082/114862a8-a7a0-4a06-b369-843731c31775">
+</p>
+
+
+
+
 
 <br>
 
@@ -81,7 +88,15 @@ Algumas das perguntas de negócio:
 -  **Pergunta de Negócio 5:** Qual Segmento Teve o Maior Total de Vendas?
 
 
-- <a href="https://github.com/Felintox/Curso-DSA">Confira o Projeto Completo</a> 
+
+- <a href="https://github.com/Felintox/Curso-DSA">Confira o Projeto Completo</a>
+  
+<p align="center">
+  <img alt="Covid-19" width="70%" src="https://github.com/Felintox/Portfolio/assets/129033082/f6a43de4-17c3-4f63-886a-bae54a074792">
+</p>
+
+
+
 <br>
 
 #  <a href="https://www.kaggle.com/code/gabrielfelinto/eda-salary-data-science-2020-2024">EDA - Salary Data Science ( 2020 - 2024)</a>
@@ -92,6 +107,9 @@ Algumas das perguntas de negócio:
 - O objetivo desta EDA é proporcionar uma compreensão mais aprofundada da estrutura de remuneração no campo de Data Science, identificando padrões e possíveis disparidades. Esta análise não apenas beneficia os profissionais atuais e aspirantes a entenderem o panorama salarial, mas também empregadores no planejamento de orçamentos de contratação e no estabelecimento de pacotes de remuneração competitivos
 
 - <a href="https://www.kaggle.com/code/gabrielfelinto/eda-salary-data-science-2020-2024">Confira o Projeto</a>
+
+![image](https://github.com/Felintox/Portfolio/assets/129033082/b77fed84-5cbd-42fa-8409-2e77f21b26cc)
+
 
 <br>
 
@@ -105,6 +123,10 @@ Algumas das perguntas de negócio:
 - Construir um modelo com alto poder preditivo, com mais variáveis, visando um bom desempenho e com o intuito de ser usado em uma página web como preditora de desempenho. Note que, em casos como esse, queremos ter o menor erro possível, mesmo que o modelo seja complexo e tenha uma interpretação mais difícil.<br>
 
 - <a href="https://www.kaggle.com/code/gabrielfelinto/prevendo-notas-do-enem">Confira o Projeto</a>
+
+![image](https://github.com/Felintox/Portfolio/assets/129033082/3cf438b1-2961-4a50-b22c-0a57764b65fa)
+
+
 <br>
 
 
