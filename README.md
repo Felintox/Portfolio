@@ -61,18 +61,14 @@ Algumas perguntas:
 
 - Este projeto tem como objetivo responder dez perguntas de negócio para entender melhor sobre um conjunto de dados de uma rede de varejo que comercializa diversos produtos em diversas cidades dos EUA.
 
-Perguntas de Negócio:
+Algumas das perguntas de negócio:
 
 -  **Pergunta de Negócio 1:** Qual Cidade com Maior Valor de Venda de Produtos da Categoria 'Office Supplies'
 -  **Pergunta de Negócio 2:** Qual o Total de Vendas Por Data do Pedido?
 -  **Pergunta de Negócio 3:** Qual o Total de Vendas por Estado?
 -  **Pergunta de Negócio 4:** Quais São as 10 Cidades com Maior Total de Vendas?
 -  **Pergunta de Negócio 5:** Qual Segmento Teve o Maior Total de Vendas?
--  **Pergunta de Negócio 6:** Qual o Total de Vendas Por Segmento e Por Ano?
--  **Pergunta de Negócio 7:** Quantas Vendas Receberiam 15% de Desconto?
--  **Pergunta de Negócio 8:** Qual Seria a Média do Valor de Venda Antes e Depois do Desconto?
--  **Pergunta de Negócio 9:** Qual o Média de Vendas Por Segmento, Por Ano e Por Mês?
--  **Pergunta de Negócio 10:** Qual o Total de Vendas Por Categoria e SubCategoria, Considerando Somente as Top 12 SubCategorias?
+
 
 - <a href="https://github.com/Felintox/Curso-DSA">Confira o Projeto Completo</a> 
 <br>
