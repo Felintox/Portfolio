@@ -24,7 +24,13 @@
 -  <a href='https://app.powerbi.com/view?r=eyJrIjoiN2Q3ZjkwOGMtYzExZC00NWEwLWJkODgtODIwMjM3NGIyZTU2IiwidCI6IjY3NzhmMDFhLWI5ZmMtNGNlYy1iZTgyLTM0N2U5NzMzNTI4ZCJ9&pageName=ReportSectionae2b9fce90c9a17c857b'>Confira o Dashboard</a>
 -  <a href='https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-uma-startup-de-entregas-f38a350a80b2'>Confira o Projeto no Medium</a>
 
-https://github.com/Felintox/imagens/assets/129033082/331cacf1-bffe-4707-9123-5ccaf1f79788
+
+<p align="center">
+  <img alt="PBi" width="70%" src="https://github.com/Felintox/Portfolio/assets/129033082/2e76d358-6157-440f-b0fe-f72ffe94167b">
+</p>
+
+
+
 
 
 
