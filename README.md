@@ -25,7 +25,7 @@
 -  <a href='https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-uma-startup-de-entregas-f38a350a80b2'>Confira o Projeto no Medium</a>
 
 <p align="center">
-  <img alt="Covid-19" width="80%" src="https://github.com/Felintox/Portfolio/assets/129033082/ba7e34d4-d95d-4736-a987-02be78957f44">
+  <img alt="entregas" width="80%" src="https://github.com/Felintox/Portfolio/assets/129033082/942f34ff-eb09-4d0e-87af-baad24f15944">
 </p>
 
 
@@ -43,7 +43,7 @@
 - <a href="https://github.com/Felintox/Sql_Olist_Analise">Link para o Projeto</a>
 
 <p align="center">
-  <img alt="Covid-19" width="80%" src="https://github.com/Felintox/Portfolio/assets/129033082/5aeae21b-e031-4549-9a84-be73054f7fca">
+  <img alt="sql" width="80%" src="https://github.com/Felintox/Portfolio/assets/129033082/5aeae21b-e031-4549-9a84-be73054f7fca">
 </p>
 
 <br> 
@@ -66,7 +66,7 @@ Algumas perguntas:
 - <a href='https://github.com/Felintox/Tera_Desafio_Inferencia'>Confira o Projeto</a>
 
 <p align="center">
-  <img alt="Covid-19" width="70%" src="https://github.com/Felintox/Portfolio/assets/129033082/114862a8-a7a0-4a06-b369-843731c31775">
+  <img alt="est" width="70%" src="https://github.com/Felintox/Portfolio/assets/129033082/114862a8-a7a0-4a06-b369-843731c31775">
 </p>
 
 
@@ -92,7 +92,7 @@ Algumas das perguntas de negócio:
 - <a href="https://github.com/Felintox/Curso-DSA">Confira o Projeto Completo</a>
   
 <p align="center">
-  <img alt="Covid-19" width="70%" src="https://github.com/Felintox/Portfolio/assets/129033082/f6a43de4-17c3-4f63-886a-bae54a074792">
+  <img alt="varejo" width="70%" src="https://github.com/Felintox/Portfolio/assets/129033082/f6a43de4-17c3-4f63-886a-bae54a074792">
 </p>
 
 
