@@ -25,7 +25,7 @@
 -  <a href='https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-uma-startup-de-entregas-f38a350a80b2'>Confira o Projeto no Medium</a>
 
 <p align="center">
-  <img alt="entregas" width="80%" src="https://github.com/Felintox/Portfolio/assets/129033082/942f34ff-eb09-4d0e-87af-baad24f15944">
+  <img alt="entregas" width="80%" src="https://github.com/Felintox/Portfolio/assets/129033082/dbc06cc4-fa1a-4b03-9487-8f4247c32216">
 </p>
 
 
