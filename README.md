@@ -41,6 +41,7 @@
 - Vamos realizar a análise através de um conjunto de dados muito famoso na plataforma do Kaggle, o "Brazilian E-Commerce Public Dataset by Olist". 
 
 - <a href="https://github.com/Felintox/Sql_Olist_Analise">Link para o Projeto</a>
+- <a href="https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-e-commerce-com-sql-407e4226e5c2">Link para o Medium</a>
 
 <p align="center">
   <img alt="sql" width="80%" src="https://github.com/Felintox/Portfolio/assets/129033082/5aeae21b-e031-4549-9a84-be73054f7fca">
