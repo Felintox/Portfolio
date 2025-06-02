@@ -13,13 +13,13 @@
 # <a href='https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-uma-startup-de-entregas-f38a350a80b2'>Análise de Dados de uma Startup de Entregas</a>
 
 
-- Artigo no medium visando cumprir os levantamentos sugeridos a seguir, além de conduzir uma análise exploratória aprofundada dos dados. Isso envolverá modificações nos dados para identificar e corrigir quaisquer erros ou outliers, preparando-os adequadamente para a realização dos levantamentos requisitados. <b>Realizando Dashboards e utilizando de funções DAX.</b>
+- Artigo no Medium visando cumprir os levantamentos sugeridos a seguir, além de conduzir uma análise exploratória aprofundada dos dados. Isso envolverá modificações nos dados para identificar e corrigir quaisquer erros ou outliers, preparando-os adequadamente para a realização dos levantamentos requisitados. <b>Realizando Dashboards e com o uso de funções DAX.</b>
 
 <b>Levantamentos Propostos:</b>
 
-- Numa ação de marketing, para atrair mais entregadores, vamos dar uma bonificação para os 20 entregadores que possuem maior distância percorrida ao todo.
-- o CFO precisa de alguns indicadores de receita para apresentar para a diretoria executiva. Dentre esses indicadores, vocês precisarão levantar (1) a receita média e total separada por tipo (Food x Good), (2) A receita média e total por estado.
-- Se a empresa tem um gasto fixo de 5 reais por entrega, recebe 15% do valor de cada entrega como receita e, do total do lucro, distribui 20% em forma de bônus para os 2 mil funcionários, quanto cada um irá receber ?
+- Numa ação de marketing, para atrair mais entregadores, vamos dar uma bonificação para os 20 entregadores com maior distância percorrida.
+- o CFO precisa de alguns indicadores de receita para apresentar para a diretoria executiva. Dentre esses indicadores, vocês precisarão levantar (1) a receita média e total separada por tipo "Food vs Good" (Alimentos x Bens/Produtos), (2) A receita média e total por estado.
+- Se a empresa tem um gasto fixo de 5 reais por entrega, recebe 15% do valor de cada entrega como receita e, do total do lucro, distribui 20% em forma de bônus para os 2 mil funcionários, quanto cada um irá receber?
 
 -  <a href='https://app.powerbi.com/view?r=eyJrIjoiM2Q0YjIyNzMtNDQ4Mi00MjIzLTljZDctYWRjNjFlNjc1MmI2IiwidCI6IjY3NzhmMDFhLWI5ZmMtNGNlYy1iZTgyLTM0N2U5NzMzNTI4ZCJ9&pageName=ReportSection3a7fa94dd9e8dd86db21'>Confira o Dashboard</a>
 -  <a href='https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-uma-startup-de-entregas-f38a350a80b2'>Confira o Projeto no Medium</a>
@@ -37,7 +37,7 @@
 
 #  <a href="https://github.com/Felintox/Sql_Olist_Analise">Análise de Dados de E-Commerce com SQL </a>
 
-- Artigo no medium realizando uma análise em um conjunto de dados de bem conhecido de E-Commerce do Brasil, o que nos permitirá compreender melhor o comportamento do consumidor, avaliar o desempenho de produtos e funcionários, entre outras informações, utilizando a linguagem SQL.
+- Artigo no Medium realizando uma análise em um conjunto de dados bem conhecido de E-Commerce do Brasil, o que nos permitirá compreender melhor o comportamento do consumidor, avaliar o desempenho de produtos e funcionários, entre outras informações, utilizando a linguagem SQL.
 - Vamos realizar a análise através de um conjunto de dados muito famoso na plataforma do Kaggle, o "Brazilian E-Commerce Public Dataset by Olist". 
 
 - <a href="https://github.com/Felintox/Sql_Olist_Analise">Link para o Projeto</a>
@@ -102,9 +102,9 @@ Algumas das perguntas de negócio:
 #  <a href="https://www.kaggle.com/code/gabrielfelinto/eda-salary-data-science-2020-2024">EDA - Salary Data Science ( 2020 - 2024)</a>
 
 
-- O projeto tem como objetivo realizar uma Análise exploratória de dados (EDA) em um conjunto de dados disponivel no Kaggle sobre os salarios da área de Ciência de dados entre os anos de 2020-2024.
+- O projeto tem como objetivo realizar uma Análise exploratória de dados (EDA) em um conjunto de dados disponível no Kaggle sobre os salários da área de Ciência de Dados entre os anos de 2020-2024.
 
-- O objetivo desta EDA é proporcionar uma compreensão mais aprofundada da estrutura de remuneração no campo de Data Science, identificando padrões e possíveis disparidades. Esta análise não apenas beneficia os profissionais atuais e aspirantes a entenderem o panorama salarial, mas também empregadores no planejamento de orçamentos de contratação e no estabelecimento de pacotes de remuneração competitivos
+- O objetivo desta EDA é proporcionar uma compreensão mais aprofundada da estrutura de remuneração no campo de Data Science, identificando padrões e possíveis disparidades. Esta análise beneficia não apenas os profissionais atuais e aspirantes a entenderem o panorama salarial, mas também os empregadores, ao auxiliar no planejamento de orçamentos de contratação e no estabelecimento de pacotes de remuneração competitivos
 
 - <a href="https://www.kaggle.com/code/gabrielfelinto/eda-salary-data-science-2020-2024">Confira o Projeto</a>
 
