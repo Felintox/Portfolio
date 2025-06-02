@@ -21,7 +21,7 @@
 - o CFO precisa de alguns indicadores de receita para apresentar para a diretoria executiva. Dentre esses indicadores, vocês precisarão levantar (1) a receita média e total separada por tipo (Food x Good), (2) A receita média e total por estado.
 - Se a empresa tem um gasto fixo de 5 reais por entrega, recebe 15% do valor de cada entrega como receita e, do total do lucro, distribui 20% em forma de bônus para os 2 mil funcionários, quanto cada um irá receber ?
 
--  <a href='https://app.powerbi.com/view?r=eyJrIjoiN2Q3ZjkwOGMtYzExZC00NWEwLWJkODgtODIwMjM3NGIyZTU2IiwidCI6IjY3NzhmMDFhLWI5ZmMtNGNlYy1iZTgyLTM0N2U5NzMzNTI4ZCJ9&pageName=ReportSectionae2b9fce90c9a17c857b'>Confira o Dashboard</a>
+-  <a href='https://app.powerbi.com/view?r=eyJrIjoiM2Q0YjIyNzMtNDQ4Mi00MjIzLTljZDctYWRjNjFlNjc1MmI2IiwidCI6IjY3NzhmMDFhLWI5ZmMtNGNlYy1iZTgyLTM0N2U5NzMzNTI4ZCJ9&pageName=ReportSection3a7fa94dd9e8dd86db21'>Confira o Dashboard</a>
 -  <a href='https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-uma-startup-de-entregas-f38a350a80b2'>Confira o Projeto no Medium</a>
 
 <p align="center">
