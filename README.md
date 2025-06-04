@@ -117,7 +117,7 @@ Algumas das perguntas de negócio:
 # Machine Learning
 <br>
 
-## <a href="https://www.kaggle.com/code/gabrielfelinto/prevendo-notas-do-enem">Regressão</a>
+## <a href="https://www.kaggle.com/code/gabrielfelinto/prevendo-notas-do-enem">Análise Preditiva das Notas do Enem</a>
 
 - O objetivo principal deste projeto foi modelar a relação entre essas variáveis para fazer previsões ou entender a dinâmica subjacente do fenômeno em estudo.
 
