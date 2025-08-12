@@ -35,7 +35,7 @@
 # SQL
 <br>
 
-#  <a href="https://github.com/Felintox/Sql_Olist_Analise">Análise de Dados de E-Commerce com SQL </a>
+#  <a href="https://medium.com/@gabrielfelinto2020/an%C3%A1lise-de-dados-de-e-commerce-com-sql-407e4226e5c2">Análise de Dados de E-Commerce com SQL </a>
 
 - Artigo no Medium realizando uma análise em um conjunto de dados bem conhecido de E-Commerce do Brasil, o que nos permitirá compreender melhor o comportamento do consumidor, avaliar o desempenho de produtos e funcionários, entre outras informações, utilizando a linguagem SQL.
 - Vamos realizar a análise através de um conjunto de dados muito famoso na plataforma do Kaggle, o "Brazilian E-Commerce Public Dataset by Olist". 
