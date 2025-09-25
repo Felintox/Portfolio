@@ -92,9 +92,8 @@ Algumas das perguntas de negócio:
 
 - <a href="https://github.com/Felintox/Curso-DSA">Confira o Projeto Completo</a>
   
-<p align="center">
-  <img alt="varejo" width="70%" src="https://github.com/Felintox/Portfolio/assets/129033082/f6a43de4-17c3-4f63-886a-bae54a074792">
-</p>
+<img width="795" height="834" alt="image" src="https://github.com/user-attachments/assets/c160a70f-57ec-4e55-9203-c49526e1a6f2" />
+
 
 
 
