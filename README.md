@@ -129,18 +129,42 @@ Algumas das perguntas de negócio:
 # Machine Learning
 <br>
 
-## <a href="https://www.kaggle.com/code/gabrielfelinto/prevendo-notas-do-enem">Análise Preditiva das Notas do Enem</a>
+## <a href="https://github.com/Felintox/Analise-Preditiva-Enem-2023">Análise Preditiva ENEM 2023 | Machine Learning</a>
 
-- O objetivo principal deste projeto foi modelar a relação entre essas variáveis para fazer previsões ou entender a dinâmica subjacente do fenômeno em estudo.
+Desenvolvi um modelo de machine learning capaz de predizer notas do ENEM 2023 utilizando apenas dados socioeconômicos dos candidatos, baseado nos microdados oficiais do INEP (2,6 milhões de registros).
 
-- Construir um modelo com alto poder preditivo, com mais variáveis, visando um bom desempenho e com o intuito de ser usado em uma página web como preditora de desempenho. Note que, em casos como esse, queremos ter o menor erro possível, mesmo que o modelo seja complexo e tenha uma interpretação mais difícil.<br>
+## Principais Descobertas:
+- Renda familiar e faixa etarias são fatores que pesaram na predição
+- Candidatos de maior renda apresentam menores taxas de abstenção (24% vs 42%)
+- Desempenho cresce de 479 pontos (pais sem escolaridade) até 612 pontos (pós-graduação)
 
-- <a href="https://www.kaggle.com/code/gabrielfelinto/prevendo-notas-do-enem">Confira o Projeto</a>
+## Solução Técnica:
+- Pipeline automatizado com OneHotEncoder e OrdinalEncoder
+- Testei 8 algoritmos diferentes (Ridge, Lasso, XGBoost, LightGBM, CatBoost)
+- LightGBM otimizado com Optuna alcançou melhor performance
+- Modelo final: RMSE 75.71 (20.6% melhor que baseline)
+  
+<img width="732" height="609" alt="image" src="https://github.com/user-attachments/assets/09c8c505-fb33-4698-9c4a-72b14ec1340c" />
 
-![image](https://github.com/Felintox/Portfolio/assets/129033082/3cf438b1-2961-4a50-b22c-0a57764b65fa)
+A análise de importância do LightGBM revelou que renda familiar (Q006) e faixa etária são as variáveis mais frequentemente utilizadas pelo algoritmo para criar divisões nas árvores de decisão, indicando sua importância estrutural no modelo. As variáveis de escolaridade dos pais (Q001, Q002) e remainder_Q005 ocupam posições intermediárias, confirmando que fatores socioeconômicos são os principais critérios algorítmicos para segmentação dos dados e predição das notas do ENEM.
+
+SHAP Summary Plot - Análise
+Este gráfico mostra o impacto individual de cada variável nas predições do modelo, onde cada ponto representa um exemplo e as cores indicam valores altos (rosa) ou baixos (azul) da variável. A posição horizontal revela se a variável aumenta (direita) ou diminui (esquerda) a nota predita.
+A renda familiar (Q006) apresenta o maior range de impacto (-100 a +50 pontos) com padrão claro: renda alta aumenta as notas, renda baixa diminui. A faixa etária mostra padrão inverso: candidatos mais jovens (azul) têm impacto positivo, enquanto mais velhos (rosa) têm impacto negativo, confirmando que jovens performam melhor no ENEM.
+
+SHAP Feature Importance - Análise
+Este gráfico apresenta a importância média de cada variável calculada pela média dos valores SHAP absolutos, oferecendo uma visão simplificada de qual variável tem maior impacto médio nas predições do modelo. Diferente do Summary Plot, remove a complexidade das distribuições e cores, focando apenas na magnitude do impacto.
+As duas variáveis mais importantes são cat_ord_Q006 (renda familiar) com aproximadamente 22 pontos de impacto médio, dominando significativamente todas as outras variáveis, e cat_ord_TP_ST_CONCLUSAO com cerca de 13 pontos, relacionada ao status de conclusão do ensino médio. Esta hierarquia confirma que fatores socioeconômicos fundamentais são os principais determinantes das predições do modelo.
+
+## Impacto:
+Ferramenta capaz de predizer notas do ENEM 2023.
+
+**Tecnologias utilizadas:** Python | Scikit-learn | LightGBM | XGBoost | Optuna | SHAP | Pandas | Matplotlib
 
 
-<br>
+
+
+
 
 
 
